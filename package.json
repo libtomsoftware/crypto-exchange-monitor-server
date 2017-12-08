@@ -1,0 +1,35 @@
+{
+  "name": "crypto-exchange-monitor-server",
+  "version": "0.0.1",
+  "description": "Crypto Exchange Monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/libtomsoftware/crypto-exchange-monitor-server.git"
+  },
+  "keywords": [
+    "cryptocurrencies",
+    "exchange",
+    "bitcoin",
+    "ethereum"
+  ],
+  "author": "Libtom Software Ltd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/libtomsoftware/crypto-exchange-monitor-server/issues"
+  },
+  "homepage": "https://github.com/libtomsoftware/crypto-exchange-monitor-server#readme",
+  "dependencies": {
+    "body-parser": "*",
+    "chalk": "*",
+    "crypto": "^1.0.1",
+    "dot-env": "*",
+    "express": "*",
+    "fs-extra": "*",
+    "moment": "*",
+    "request": "*"
+  }
+}

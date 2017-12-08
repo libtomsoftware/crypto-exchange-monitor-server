@@ -1,2 +1,2 @@
 # crypto-exchange-monitor-server
-Cryptocurrencies Exchange Monitor
+Cryptocurrencies Exchange Monitor Server
